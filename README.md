@@ -1,7 +1,7 @@
 # BLM4522_ProjeVideolar-
 BLM4522 dersinin vizesi ve finali için olan proje videoları. Berkay Bozpınar (21290178) ve Artun Cankar (21290507)
 # Proje 1
-[![Proje 1]](https://drive.google.com/file/d/1Ca_TyiNUMUdJJBq1K8lkn_609MoeOBcN/view?usp=drive_link)
+[![Proje 1](https://img.youtube.com/vi/dVTy4totc5w/0.jpg)](https://drive.google.com/file/d/1Ca_TyiNUMUdJJBq1K8lkn_609MoeOBcN/view?usp=drive_link)
 # Proje 2
 [![Proje 1](https://img.youtube.com/vi/FhKYDIwogyo/0.jpg)](https://drive.google.com/file/d/176oWgNmQEVtZj_BeZt1mGp8XXSljQ__0/view?usp=drive_link)
 # Proje 3
